@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Create Nervos University using Next.js</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
